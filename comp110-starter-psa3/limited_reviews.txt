@@ -1,0 +1,4 @@
+4 It was a great movie
+0 It was a terrible movie
+1 I thought it was not very good
+2 Just an OK movie
