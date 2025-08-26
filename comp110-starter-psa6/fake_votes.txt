@@ -1,0 +1,3 @@
+2020 COMP110 Election,Dr. Sat,Spongebob Squarepants,Other,
+Narnia,5000,3500,40,
+Candy Land,800,6300,74,
